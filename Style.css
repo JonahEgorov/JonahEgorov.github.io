@@ -1,0 +1,13 @@
+html {
+	background: #eee;
+}
+body {
+	background: #fff;
+	margin: 10px;
+	text-align: center;
+	padding: 0px;
+	
+}
+dt {
+	font-size: 1.5em;
+}
